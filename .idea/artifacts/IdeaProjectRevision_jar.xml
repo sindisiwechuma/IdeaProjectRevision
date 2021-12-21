@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IdeaProjectRevision:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IdeaProjectRevision_jar</output-path>
+    <root id="archive" name="IdeaProjectRevision.jar">
+      <element id="module-output" name="IdeaProjectRevision" />
+    </root>
+  </artifact>
+</component>
